@@ -2,9 +2,9 @@
 
 - 🛠️ **Software Engineering student (21)** from Brazil
 - 🧑‍🎓 Student at Pontificia Universidade Catolica do Rio Grande do Sul  
-- ☕ Java & Spring Boot • React & React Native  
+- ☕ Java & Spring Boot • React & Angular  
 - 🌐 Full-Stack developer at 🌾 **[Aegro](https://aegro.com.br)**, building AgTech solutions
-- 🚀 3 years of coding adventures and counting!  
+- 🚀 4 years of coding adventures and counting!  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Niko-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
